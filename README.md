@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, flask, responsive tailwind/bootstrap,**
 
-- 📫 How to reach me **tulasiraman917@gmail.com**
+- 📫 How to reach me **tulasiraman.r@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
