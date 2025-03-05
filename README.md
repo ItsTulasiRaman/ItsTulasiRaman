@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itstulasiraman" alt="itstulasiraman" /></a> </p>
 
-- 🌱 I’m currently learning **Next, flutter, AI/ML,**
+- 🌱 I’m currently learning **AI/ML, DevOps, IoT**
 
 - 👯 I’m looking to collaborate on **research topics on AI/ML, backend architecture, cloud infra.**
 
-- 💬 Ask me about **react, flask, responsive tailwind/bootstrap,**
+- 💬 Ask me about **LLMs, modern full-stack web**
 
-- 📫 How to reach me **tulasiraman.r@outlook.com**
+- 📫 How to reach me **tulasiraman.ranganathan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/tulasiramanr](https://www.linkedin.com/in/tulasiramanr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulasi-raman-r-a3962a216" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/tulasiramanr](https://www.linkedin.com/in/tulasiramanr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulasiramanr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16413603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16413603" height="30" width="40" /></a>
 <a href="https://instagram.com/__tulasiraman2003__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tulasiraman2003__" height="30" width="40" /></a>
 <a href="https://discord.gg/9637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9637" height="30" width="40" /></a>
